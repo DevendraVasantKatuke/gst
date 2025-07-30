@@ -1,6 +1,57 @@
+##### CleartaxIndia
 -   https://cleartax.in/
--   https://tallysolutions.com/business-tools-templates/gst-calculator/
+-   https://www.youtube.com/@CleartaxIndia
+-   https://www.youtube.com/@CleartaxIndia/featured
+-   https://www.youtube.com/playlist?list=PLQ8yz2TldKLL5QV4oNWAS8CpSonwavRcS
+##### Saral by Relyon
+-   https://www.youtube.com/@SaralbyRelyon
+-   https://www.youtube.com/@SaralbyRelyon/playlists
+-   https://www.youtube.com/@saraltutor2946/videos
+-   https://www.youtube.com/playlist?list=PLBxOF2WsDKV7_XrVhN1tNoiHRm-EEhY8S
+##### Marg
+-   https://margcompusoft.com/gst_software.html
+-   https://www.youtube.com/@MargTutorial
+-   https://www.youtube.com/playlist?list=PLORFVpMHnfTC5318b2OCweREYTiY6QBXN
+-   https://www.youtube.com/playlist?list=PLBxOF2WsDKV6wD0WTMsM1WxzxCsUKGLPF
+##### Zoho
+-   https://www.youtube.com/@Zoho_Books
+-   https://www.youtube.com/playlist?list=PLinHkD9yoM8rx2tuUBMMAWvO5sAKP98zu
 -   https://www.zoho.com/in/books/gst-accounting-software/
+##### Busy
+-   https://busy.in/accounting-software/gst-accounting/
+-   https://www.youtube.com/playlist?list=PLq8n5qS8Z_SUR5wSjs1cOYcME7b1CrTHC
+-   https://www.youtube.com/@BusyFunda
+-   https://www.youtube.com/@BUSYAccounting
+##### Software Demo
+1. https://www.youtube.com/@mygstcafe8185
+2. https://www.youtube.com/@Accountrix
+4.  https://geniebooks.com/
+5. https://www.youtube.com/@GenieBooks
+6.  https://www.youtube.com/@irisgst
+7.  https://www.youtube.com/@focuslyte7048
+8.  https://www.youtube.com/@cygnetface1427
+9.  https://www.youtube.com/@ubookssoftware9675
+10. https://www.optotax.com/
+11. https://www.expressgst.com/
+12. https://www.suvit.io/
+13. https://gsthero.com/
+14. https://taxpro.co.in/taxpro-gst
+15. https://taxpro.co.in/
+16. https://www.microvistatech.com/gst-software
+17. https://www.hostbooks.com/in/hb/laptop-gst-1/
+18. https://www.hostbooks.com/in/hb/gst-software/
+19. https://webtel.in/ERP-Integrated-GST-Filing-Software
+20. https://saginfotech.com/gst-software.aspx
+21. https://www.electrocom.in/gst-software-india.php
+22. https://www.electrocom.in/easygst.php
+23. https://www.computaxonline.com/product/gst-filing-software
+24. https://www.easyofficesoftware.com/public/easygst
+25. https://themunim.com/
+26. https://mybillbook.in/
+27. https://www.taxilla.com/India-GST
+28. https://profitbooks.net/gst-software-india/
+29. https://vyaparapp.in/
+-   https://tallysolutions.com/business-tools-templates/gst-calculator/
 -   https://tutorial.gst.gov.in/userguide/returns/index.htm#t=Goods_and_Services_Tax_FAQ_Tutorial_Pipepline.htm
 -   https://www.gst.gov.in/help/helpmodules/
 -   https://www.cbic.gov.in/entities/gst
@@ -9,51 +60,15 @@
 -   https://www.gstn.org.in/gst
 -   https://gstcouncil.gov.in/central-gst
 -   https://www.legalraasta.com/gst-return/
-
--   https://www.optotax.com/
--   https://www.expressgst.com/
--   https://www.suvit.io/
--   https://gsthero.com/
--   https://taxpro.co.in/
--   https://busy.in/accounting-software/gst-accounting/
--   https://www.microvistatech.com/gst-software
--   https://www.hostbooks.com/in/hb/gst-software/
--   https://webtel.in/ERP-Integrated-GST-Filing-Software
--   https://margcompusoft.com/gst_software.html
--   https://saginfotech.com/gst-software.aspx
--   https://www.electrocom.in/gst-software-india.php
--   https://www.electrocom.in/easygst.php
--   https://www.microvistatech.com/gst-software
--   https://www.computaxonline.com/product/gst-filing-software
--   https://www.easyofficesoftware.com/public/easygst
--   https://themunim.com/
--   https://taxpro.co.in/taxpro-gst
--   https://geniebooks.com/
--   https://mybillbook.in/
--   https://www.taxilla.com/India-GST
--   https://www.hostbooks.com/in/hb/laptop-gst-1/
--   https://profitbooks.net/gst-software-india/
--   https://vyaparapp.in/
-
--   https://www.youtube.com/@Accountrix
--   https://www.youtube.com/@mygstcafe8185
--   https://www.youtube.com/@CleartaxIndia/featured
--   https://www.youtube.com/@SaralbyRelyon/playlists
--   https://www.youtube.com/@saraltutor2946/videos
 -   https://www.youtube.com/@eduvident
-
 -   https://www.youtube.com/playlist?list=PLQ8yz2TldKLIrPcInlCxFZqVqNRVHcInT IMS
 -   https://www.youtube.com/watch?v=Hnsf_2rSVT4&list=PLjCc0NQcZY5aIurzWW0pbrEiYH51-camL Learn about the Sage 50 Accounting Environment
--   https://www.youtube.com/playlist?list=PLBxOF2WsDKV7_XrVhN1tNoiHRm-EEhY8S Relyon Saral Accounts
--   https://www.youtube.com/playlist?list=PLQ8yz2TldKLL5QV4oNWAS8CpSonwavRcS Using ClearTax GST software
 -   https://www.youtube.com/playlist?list=PLjCc0NQcZY5bpwddKeO0wQZfuGm7AzvNK QuickBooks Desktop Pro 2024 Training Tutorial
 -   https://www.youtube.com/playlist?list=PLpYSo5wFJ9odcAVBMaPBW0IXnoPE1VEI_ QRMP/IFF RETURN
 -   https://www.youtube.com/playlist?list=PLBxOF2WsDKV75yg5nJvgqa7WNtO1vreeV QRMP-IFF filing Live Filing
 -   https://www.youtube.com/playlist?list=PLpYSo5wFJ9oeLVxXfjyX_e8Dr1LfeMWDK PRACTICAL ACCOUNTANCY
 -   https://www.youtube.com/playlist?list=PLQ8yz2TldKLIpJvkh13HZL6ef7N2JaRzd Monthly GST Compliances
 -   https://www.youtube.com/playlist?list=PLHmTmdcE_1uTwybKsZQ90Q01n30xuKly_ MediVision Retail Platinum Videos
--   https://www.youtube.com/playlist?list=PLORFVpMHnfTC5318b2OCweREYTiY6QBXN Marg Software complete tutorial
--   https://www.youtube.com/playlist?list=PLBxOF2WsDKV6wD0WTMsM1WxzxCsUKGLPF Marg + GST Full Course
 -   https://www.youtube.com/playlist?list=PLpYSo5wFJ9oceqBmlB5AcFm8ew2_7z357 Manual Accountancy / Business Accountancy
 -   https://www.youtube.com/playlist?list=PLpYSo5wFJ9ofZPwPZ25kmjLxq-rcdF0tL LIVE GST RETURN ONLIE
 -   https://www.youtube.com/playlist?list=PLBxOF2WsDKV5-uw2m9WO2MgcVaoXwdnjT Live GST Return Filing Course
@@ -81,7 +96,6 @@
 -   https://www.youtube.com/playlist?list=PLBxOF2WsDKV7E3KWIYloqz80Nin6BLgSK Complete GST Return filing
 -   https://www.youtube.com/playlist?list=PLBxOF2WsDKV4I9lMkDOr6kBDNH8bTLagd Complete Accountant & GST Course
 -   https://www.youtube.com/playlist?list=PLQ8yz2TldKLI6iEiZ60sjwbbJMjXEpRb1 Clear GST: This changes everything
--   https://www.youtube.com/playlist?list=PLq8n5qS8Z_SUR5wSjs1cOYcME7b1CrTHC Busy
 -   https://www.youtube.com/playlist?list=PLq8n5qS8Z_SV_WLl_p9_mxE-ffddceT8A Advance Tally Prime
 -   https://www.youtube.com/playlist?list=PLq8n5qS8Z_SVqcD6hTEFCxEwMPcwJvely Advance Tally Chapter - 2
 -   https://www.youtube.com/playlist?list=PLq8n5qS8Z_SVRJU4aiJBPrfCtIZV9TgOZ Advance Tally Chapter - 3
@@ -109,7 +123,6 @@
 -   https://www.youtube.com/playlist?list=PLrGqGF0IOdkisdNpCnkCcNrgwj2poYOq9 Tally ERP.9
 -   https://www.youtube.com/playlist?list=PLIjgyfc0HAsjejh-NCzR9qvBzKoLdQdO2 Tally ERP 9 complete course
 -   https://www.youtube.com/playlist?list=PLeT3MilnM611QWKDv4RS9ymUVX7IJBBAP TALLY BASIC TO ADVANCE
--   https://www.youtube.com/playlist?list=PLinHkD9yoM8rx2tuUBMMAWvO5sAKP98zu Zoho Training Videos
 -   https://www.youtube.com/playlist?list=PLpYSo5wFJ9ocGKHJmIwYtBnZcyP-U2rRH TDS SHORTS VIDEO
 -   https://www.youtube.com/playlist?list=PLpYSo5wFJ9oe-k2AwLV3CgERY4wtYdxIj LEARN TALLY ERP9 +GST+INCOMET TAX
 -   https://www.youtube.com/playlist?list=PLaiIhBhdwACfR1RSRehz0DBC4MqQSaVQx Stock Valuation in Tally Prime
@@ -131,7 +144,6 @@
 -   https://www.youtube.com/@acutenetworks
 -   https://www.youtube.com/@AccountsFunda
 -   https://www.youtube.com/@AccountsAdvice
--   https://www.youtube.com/@Accountrix
 -   https://www.youtube.com/@AccountingStuff
 -   https://www.youtube.com/@AccountingSoftwareSolutions
 -   https://www.youtube.com/@AccountingJournalentries
@@ -140,14 +152,11 @@
 -   https://www.youtube.com/@AccountSureSolution
 -   https://www.youtube.com/@AcademyCommerce
 -   https://www.youtube.com/@AtoZlearnwithme
--   https://www.youtube.com/@BusyFunda
--   https://www.youtube.com/@BUSYAccounting
 -   https://www.youtube.com/@BookkeepingMaster
 -   https://www.youtube.com/@bidyuttechnical
 -   https://www.youtube.com/@BeingAccountant
 -   https://www.youtube.com/@becominganexpert
 -   https://www.youtube.com/@BankingBaba
--   https://www.youtube.com/@CleartaxIndia
 -   https://www.youtube.com/@CAVivekGabaVGSTUDYHUB
 -   https://www.youtube.com/@CAMitra24
 -   https://www.youtube.com/@cakavita9852
@@ -157,33 +166,8 @@
 -   https://www.youtube.com/@ConsultEase
 -   https://www.youtube.com/@commercehubudaipur6669
 
--   GSTR-1: Contains details of outward supplies of taxable goods and/or services which need to be filed either on a quarterly or monthly basis.
-    GSTR-2: Contains details of inward supplies of taxable goods and/or services.
-    GSTR-3: Contains details of the cumulative outward supplies and inward supplies along with the payment of tax.
-    GSTR-4: Contains details on quarterly return filing, especially compounded tax liabilities for certain individuals.
-    GSTR-5: Contains details of tax liabilities of a Non-Resident Foreign taxable person.
-    GSTR-6: This return is used by an Input Service Distributor to distribute the eligible input tax credit to its branches.
-    GSTR-7: Contains details for Government authorities involved in deducting tax at source (TDS).
-    GSTR-8: Contains supply details of e-commerce operators and the amount of tax collected at source by them.
-    GSTR-9: This is the Annual Return Filing form for a normal taxpayer
-    GSTR-11: Contains details of inward supplies to be furnished by a person having UIN and claiming a refund.
-
-```
-	Output GST (GST on Sale)
-	-Input GST Credit (GST on Expenses/Purchases)
---------------
-	GST Payable (If Output is more than input)
-	Balance GST Credit (If input is more than output)
-```
-
-GST must now evolve from a compliance framework to a facilitative ecosystem
-
 No credit or input tax
 Under the composition scheme, no input tax credits are allowed for any purchase of goods by the taxpayer registered under the scheme. He can set-off output tax liability from the tax paid on the purchase of goods. The buyer of such goods will not get any credit of taxes paid. This may lead to an increase in the price of goods. This refrains a B2B buyer from purchasing goods from a taxpayer registered under the composition scheme.
-
-A Composition dealer can't sale Inter State
-Businesses under the composition scheme cannot collect tax from their customers, and they cannot claim input tax credit.
-A service provider cannot opt for composition scheme.
 
 FCM -> Forward Charge Mechanism. Seller collects GST and pay to Govt.
 RCM -> We don't pay GST to the Seller, but to the Govt. The seller can't claim ITC.
@@ -192,12 +176,6 @@ Input Tax Credit (ITC) refers to the tax paid on purchases for the business whic
 
 If the dealers or taxpayers turnover is more than 1.5 Crores, then he/she must mention the HSN code in the invoice otherwise it is not mandatory to disclose HSN on taxable invoice.
 A taxable person opting for the scheme has to issue bill of supply as he is not eligible to issue taxable invoice under GST. He has to mention the words “Composition Taxable Person not eligible to collect tax on supplies” at the top of every bill of supply issued by him.
-
-Can a B2B businessman opt for composition scheme under GST?
-It will not make any sense to do so, if he does he will neither get input credit nor will he be able to pass it onwards
-Business house purchasing from him will not get any credit.
-I have already instructed my purchase team not to buy goods on which GST is applicable from either an unregistered vendor or those under composition scheme.
-Beware, you get to lose all your input credit (what you pay when you procure) & you have to shell out the GST from your own pocket.
 
 Can a composition dealer under the GST import goods from abroad?
 The answer is yes.
